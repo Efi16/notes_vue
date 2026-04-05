@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.hasTag("studynote")
+    order:
+      - Дата
+      - file.name
+      - Тема
+      - Важные понятия
+      - Время учёбы
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 273
+      note.Тема: 200
+      note.Важные понятия: 240

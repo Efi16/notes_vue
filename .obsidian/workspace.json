@@ -1,0 +1,338 @@
+{
+  "main": {
+    "id": "a0271bd8f3e1eb84",
+    "type": "split",
+    "children": [
+      {
+        "id": "17239329cd3b985a",
+        "type": "tabs",
+        "dimension": 69.10457963089543,
+        "children": [
+          {
+            "id": "92d4193a543b8517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Диплом.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Диплом"
+            }
+          },
+          {
+            "id": "c25455ffe995ad07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Сгенерированный список дел.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сгенерированный список дел"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f1bb1264461929f2",
+        "type": "split",
+        "dimension": 30.89542036910458,
+        "children": [
+          {
+            "id": "8a2b2bbecb50be27",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b9d8a7d9dafbc44f",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          },
+          {
+            "id": "944aaef4228293ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a0c73a296e80ed32",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dailytodo/2026-03-26.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-03-26"
+                }
+              },
+              {
+                "id": "9028406085c3f0e5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dailytodo/2026-04-01.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-04-01"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a2024c4451e46df",
+    "type": "split",
+    "children": [
+      {
+        "id": "96371b2d3171f683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7995d58cf6ee55b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "002e626b8748b82b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "e501d8ef1f3bbca9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ea481d27491cad97",
+    "type": "split",
+    "children": [
+      {
+        "id": "323bb5602a6630d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3c324939a4e2e04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "5770c2b49ac09559",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "d9361a98288d5d5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "62b05e57e35f3d6c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "ae2332847f8f3d50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Сгенерированный список дел.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Сгенерированный список дел"
+            }
+          },
+          {
+            "id": "178c0e0cd43fad62",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Projects/Сгенерированный список дел.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Сноски"
+            }
+          },
+          {
+            "id": "4d459389b19ca5c7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "753f4bae27d36fe9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "workspaces:Пространства": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c25455ffe995ad07",
+  "lastOpenFiles": [
+    "Без названия.md",
+    "Projects/Сгенерированный список дел.md",
+    "Projects/Диплом.md",
+    "Учебные заметки/Скрипты для БД.md",
+    "dailytodo/2026-04-01.md",
+    "Список всех ссылок.md",
+    "template/Проект заметка.md",
+    "Учебные заметки/Современный JavaScript книга.md",
+    "template/Учебная заметка.md",
+    "Projects",
+    "Учебные заметки/ПиАПС подготовка к экзамену.md",
+    "Учебные заметки/ПиАПС подготовка к экзамену Функциональный подход.md",
+    "dailytodo/2026-03-26.md",
+    "dailytodo/2026-03-19.md",
+    "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_1.md",
+    "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_6.md",
+    "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_7.md",
+    "Учебные заметки.base",
+    "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_5.md",
+    "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_4.md",
+    "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_3.md",
+    "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_2.md",
+    "dailytodo/2026-03-18.md",
+    "dailytodo/2026-03-20.md",
+    "dailytodo/2026-03-17.md",
+    "dailytodo/2026-03-16.md",
+    "Books/Современный JavaScript для нетерпеливых [2021][Ru+En] Кэй С. Хорстман/Современный JavaScript для нетерпеливых [2021] Кэй С. Хорстман.pdf",
+    "().md",
+    "Highlights for Современный JavaScript для нетерпеливых [2021] Кэй С. Хорстман.md",
+    "Список книг.base",
+    "Books/Mastering TypeScript, 4th edition [2021] Rozentals Nathan/Mastering TypeScript, 4th edition [2021] Rozentals Nathan.pdf",
+    "Books/Mastering TypeScript, 4th edition [2021] Rozentals Nathan/code/Software_and_hardware_list.pdf",
+    "Books/Веб-разработка с применением Node и Express [2021] Браун.pdf",
+    "Учебные заметки",
+    "template",
+    "Без названия/Без названия.base"
+  ]
+}

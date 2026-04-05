@@ -1,0 +1,25 @@
+properties:
+  note.Прочитано:
+    displayName: Статус
+views:
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.inFolder("Books")
+        - file.ext == "pdf"
+    order:
+      - file.name
+      - file.ext
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: DESC
+      - property: Прочитано
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: file.ext
+        direction: ASC
+    columnSize:
+      file.name: 788
