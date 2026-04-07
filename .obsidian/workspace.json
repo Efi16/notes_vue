@@ -42,7 +42,7 @@
       {
         "id": "f1bb1264461929f2",
         "type": "split",
-        "dimension": 30.89542036910458,
+        "dimension": 30.895420369104578,
         "children": [
           {
             "id": "8a2b2bbecb50be27",
@@ -84,12 +84,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "dailytodo/2026-04-01.md",
+                    "file": "dailytodo/2026-04-07.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2026-04-01"
+                  "title": "2026-04-07"
                 }
               }
             ],
@@ -256,8 +256,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -268,6 +268,26 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "8d2ddb843c6a7f61",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "124d13ea78066f5c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -289,16 +309,29 @@
       "workspaces:Пространства": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c25455ffe995ad07",
+  "active": "9028406085c3f0e5",
   "lastOpenFiles": [
-    "Лист задания на проектный практикум_01 (измен) - принято.docx",
+    "~WRL1011.tmp",
+    "~WRD0984.tmp",
+    "~WRL0039.tmp",
+    "~WRD0007.tmp",
+    "~WRL2651.tmp",
+    "~WRD2608.tmp",
+    "~WRL3642.tmp",
+    "~WRD3619.tmp",
+    "~WRL3847.tmp",
+    "~WRD3816.tmp",
+    "~WRL2622.tmp",
+    "dailytodo/2026-04-01.md",
+    "dailytodo/2026-04-07.md",
+    "Projects/Сгенерированный список дел.md",
     "Диаграммы Диплом/Recipe.jpg",
     "Диаграммы Диплом/Menu.jpg",
     "Диаграммы Диплом/Entity Relationship Diagram.jpg",
@@ -307,22 +340,15 @@
     "Диаграммы Диплом/Deployment Diagram.jpg",
     "Диаграммы Диплом/Component Diagram.jpg",
     "Диаграммы Диплом/Class Diagram.jpg",
-    "Диаграммы Диплом",
     "Диаграммы/Recipe.jpg",
     "Диаграммы/Finance and products.jpg",
-    "Диаграммы",
-    "Раздел 2 ВКР Черновик.docx",
-    "Задание на практику. Раздел 1 ВКР.docx",
     "Без названия.md",
-    "Projects/Сгенерированный список дел.md",
     "Projects/Диплом.md",
     "Учебные заметки/Скрипты для БД.md",
-    "dailytodo/2026-04-01.md",
     "Список всех ссылок.md",
     "template/Проект заметка.md",
     "Учебные заметки/Современный JavaScript книга.md",
     "template/Учебная заметка.md",
-    "Projects",
     "Учебные заметки/ПиАПС подготовка к экзамену.md",
     "Учебные заметки/ПиАПС подготовка к экзамену Функциональный подход.md",
     "dailytodo/2026-03-26.md",
@@ -330,7 +356,6 @@
     "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_1.md",
     "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_6.md",
     "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_7.md",
-    "Учебные заметки.base",
     "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_5.md",
     "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_4.md",
     "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_3.md",
@@ -338,11 +363,6 @@
     "dailytodo/2026-03-18.md",
     "dailytodo/2026-03-20.md",
     "dailytodo/2026-03-17.md",
-    "dailytodo/2026-03-16.md",
-    "Books/Современный JavaScript для нетерпеливых [2021][Ru+En] Кэй С. Хорстман/Современный JavaScript для нетерпеливых [2021] Кэй С. Хорстман.pdf",
-    "().md",
-    "Список книг.base",
-    "Books/Mastering TypeScript, 4th edition [2021] Rozentals Nathan/Mastering TypeScript, 4th edition [2021] Rozentals Nathan.pdf",
-    "Books/Mastering TypeScript, 4th edition [2021] Rozentals Nathan/code/Software_and_hardware_list.pdf"
+    "dailytodo/2026-03-16.md"
   ]
 }
