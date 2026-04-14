@@ -6,7 +6,7 @@
       {
         "id": "17239329cd3b985a",
         "type": "tabs",
-        "dimension": 69.18238993710692,
+        "dimension": 69.10457963089543,
         "children": [
           {
             "id": "92d4193a543b8517",
@@ -21,13 +21,28 @@
               "icon": "lucide-file",
               "title": "Сгенерированный список дел"
             }
+          },
+          {
+            "id": "c25455ffe995ad07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailytodo/2026-04-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-13"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f1bb1264461929f2",
         "type": "split",
-        "dimension": 30.81761006289308,
+        "dimension": 30.895420369104578,
         "children": [
           {
             "id": "8a2b2bbecb50be27",
@@ -69,12 +84,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "dailytodo/2026-04-09.md",
+                    "file": "dailytodo/2026-04-07.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2026-04-09"
+                  "title": "2026-04-07"
                 }
               }
             ],
@@ -241,8 +256,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -253,6 +268,26 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "8d2ddb843c6a7f61",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "124d13ea78066f5c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -274,43 +309,45 @@
       "workspaces:Пространства": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92d4193a543b8517",
+  "active": "c25455ffe995ad07",
   "lastOpenFiles": [
-    "~$Р 2 глава.docx",
+    "dailytodo/2026-04-14.md",
+    "dailytodo/2026-04-13.md",
     "dailytodo/2026-04-09.md",
+    "Блок-схемы/изменение ингридиентов в копии.png",
+    "Блок-схемы/Замена продуктов.png",
+    "Блок-схемы/Блок схема расчёта КБЖУ.png",
+    "Блок-схемы/Алгоритм фильтрации рецептов.png",
+    "Блок-схемы/Алгоритм расчёта персональных норм.png",
+    "Блок-схемы/Алгоритм планировщика меню.png",
+    "Блок-схемы/Алгоритм генерации PDF списка покупок.png",
+    "Блок-схемы/авторизация.png",
+    "Блок-схемы/diagram Алгоритм расчёта персональных норм КБЖУ .png",
+    "Блок-схемы/diagram Алгоритм расчёта персональных норм КБЖУ .json",
+    "Блок-схемы/diagram Алгоритм расчёта КБЖУ рецепта.png",
+    "Блок-схемы/diagram Алгоритм расчёта КБЖУ рецепта.json",
+    "Блок-схемы",
     "Projects/Сгенерированный список дел.md",
-    "dailytodo/2026-04-01.md",
-    "Задачи.md",
-    "dailytodo/2026-04-07.md",
-    "Список всех ссылок.md",
-    "ВКР 2 глава.docx",
-    "Отчёт по проектному .docx",
-    "~WRD0000.tmp",
-    "~$здел 2 ВКР Черновик.docx",
-    "~WRD2315.tmp",
-    "Диаграммы Диплом/Full.jpg",
-    "Eatary_frontend_ver0_2.vpp.bak_000f",
-    "~WRD3428.tmp",
-    "~WRL0363.tmp",
-    "~WRD0352.tmp",
     "Projects/Диплом.md",
-    "Диаграммы Диплом/Recipe.jpg",
-    "Диаграммы Диплом/Menu.jpg",
-    "Диаграммы Диплом/Entity Relationship Diagram.jpg",
-    "Диаграммы Диплом/Finance and products.jpg",
-    "Диаграммы Диплом/LK.jpg",
-    "Диаграммы Диплом/Deployment Diagram.jpg",
-    "Диаграммы Диплом/Component Diagram.jpg",
-    "Диаграммы Диплом/Class Diagram.jpg",
-    "Диаграммы/Recipe.jpg",
+    "ВКР 2 глава.docx",
+    "Методические_указания_ВКР_бакалавра.pdf",
+    "~WRL1187.tmp",
+    "~WRD1163.tmp",
+    "Eatary_frontend_ver0_2.vpp",
+    "~WRL0992.tmp",
+    "~WRD0965.tmp",
+    "dailytodo/2026-04-07.md",
+    "dailytodo/2026-04-01.md",
+    "Без названия.md",
     "Учебные заметки/Скрипты для БД.md",
+    "Список всех ссылок.md",
     "template/Проект заметка.md",
     "Учебные заметки/Современный JavaScript книга.md",
     "template/Учебная заметка.md",
@@ -326,7 +363,6 @@
     "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_3.md",
     "Учебные заметки/ПиАПС подготовка к экзамену Объектно-ориентированный подход_2.md",
     "dailytodo/2026-03-18.md",
-    "dailytodo/2026-03-20.md",
-    "dailytodo/2026-03-17.md"
+    "dailytodo/2026-03-20.md"
   ]
 }
